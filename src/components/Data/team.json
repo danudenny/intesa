@@ -2,23 +2,23 @@
     "team": [
         {
             "title": "CEO and Founder",
-            "name": "John Smith",
-            "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
+            "name": "Dimas Uga Perceka",
+            "description": "8+ years of expertise in geospatial analysis and data science. Specializes in advanced spatial modeling, machine learning, and big data analytics.",
             "profile": "/team/c1.png",
             "link": "/"
         },
         {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
-            "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
-            "profile": "/team/c2.png",
+            "title": "Co-Founder",
+            "name": "Denny Danuwijaya",
+            "description": "8+ years of experience in software engineering and technical leadership. Expert in developing scalable solutions and driving innovation.",
+            "profile": "/team/c1.png",
             "link": "/"
         },
         {
-            "title": "Senior SEO Specialist",
-            "name": "Michael Brown",
-            "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
-            "profile": "/team/c3.png",
+            "title": "Data Scientist",
+            "name": "John Doe",
+            "description": "10+ years of experience in data science and machine learning. Specializes in advanced data analytics and machine learning algorithms.",
+            "profile": "/team/c1.png",
             "link": "/"
         }
     ],
